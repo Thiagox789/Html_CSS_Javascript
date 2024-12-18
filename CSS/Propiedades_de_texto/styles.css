@@ -1,5 +1,10 @@
-
-
-.faltante {
+p {
     color: red;
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: bolder;
+    font-style: normal;
+    text-align: normal;
+    text-decoration: underline;
+    
 }
